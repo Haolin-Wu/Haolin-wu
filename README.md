@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I am Haolin Wu.
+
+I am a graduate student in Applied Analytics at Columbia University. I was studying Economics back in Shanghai from 2021 to 2025. 
+
+Inspired by the innovation in AI industry, I am trying to build some useful stuff by the help with AI and upload it to this platform.
+
+I believe this is the best place for everyone that inspired by AI to communicate and exchange the amazing idea and keep learning the new stuff.
+
+THIS IS THE PLACE, THIS IS THE MOMENT, FOR US TO CHANGE THE WORLD.
 
 <!--
 **Haolin-Wu/Haolin-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
